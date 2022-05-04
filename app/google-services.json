@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478731236323",
+    "project_id": "androidbiobolt",
+    "storage_bucket": "androidbiobolt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478731236323:android:f4ec2bc7fac591082826d6",
+        "android_client_info": {
+          "package_name": "com.example.biobolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478731236323-pa9jtgbfd2ls4ked0r3g0be2rioss5q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biobolt",
+            "certificate_hash": "59dbcefbc42b8f06ef5fc21d980ec787ba3d1cb9"
+          }
+        },
+        {
+          "client_id": "478731236323-4tu0k25s867qas5k4o79gtvu5i3o71k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNwe6cxdLaltNUpJ2da1jS7lLQ_ZHfvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478731236323-4tu0k25s867qas5k4o79gtvu5i3o71k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

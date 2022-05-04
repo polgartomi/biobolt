@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_bar"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+        />
+
+    <item
+        android:id="@+id/cart"
+        android:title="Cart"
+        android:icon="@drawable/ic_shopping_cart"
+        app:showAsAction="always"
+        app:actionLayout="@layout/custom_menu_item"
+        />
+
+    <item
+        android:id="@+id/view_selector"
+        android:title="View"
+        android:icon="@drawable/ic_view_column"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/mostcarteditems"
+        android:title="@string/popular_products"
+        android:icon="@drawable/ic_thumb_up"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/leastcarteditems"
+        android:title="@string/not_popular_products"
+        android:icon="@drawable/ic_thumb_down"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/setting"
+        android:title="Beállítások"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.SearchView"
+        android:orderInCategory="1"
+        />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Kijelentkezés"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.SearchView"
+        android:orderInCategory="2"
+        />
+</menu>

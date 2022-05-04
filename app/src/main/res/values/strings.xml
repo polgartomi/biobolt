@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Biobolt</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="login_as_guest">Bejelentkezés vendégként</string>
+    <string name="login_with_google">Bejelentkezés Google fiókkal</string>
+    <string name="register">Regisztráció</string>
+    <string name="password_again">Jelszó újra</string>
+    <string name="email">Email cím</string>
+    <string name="address">Cím</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="user">Felhasználó</string>
+    <string name="admin">Admin</string>
+    <string name="cancel">Mégse</string>
+    <string name="default_web_client_id_copy" translatable="false">138588909047-glr4rcc9ot2tjlndf9cfkf0k2b7gdr8j.apps.googleusercontent.com</string>
+    <string name="product_name">Terméknév</string>
+    <string name="leiras">Termék leírása</string>
+    <string name="price">Ár</string>
+    <string name="add_to_cart">Kosárba</string>
+    <string name="update">Frissítés</string>
+    <string name="delete">Törlés</string>
+    <string name="popular_products">Legnépszerűbb termékek</string>
+    <string name="not_popular_products">Kevésbé népszerű termékek</string>
+    <string-array name="phones">
+        <item>Mobil</item>
+        <item>Vezetékes</item>
+    </string-array>
+
+    <string-array name="productName">
+        <item>Bazsalikom (1g)</item>
+        <item>Bio chips (100g)</item>
+        <item>Tejcsokoládé (100g)</item>
+        <item>Kávé (100g)</item>
+        <item>Tojás (10db)</item>
+        <item>Zabpehely (100g)</item>
+        <item>Méz (1dl)</item>
+        <item>Házi lekvár (1dl)</item>
+        <item>Liszt (1kg)</item>
+        <item>Rizs (1kg)</item>
+        <item>Dió (100g)</item>
+        <item>Oliva olaj (1dl)</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Pikáns, kellemes ízű fűszernövény, mely napjainkban már egyetlen háztartásból sem hiányozhat.</item>
+        <item>Szeretnél büntetlenül nasizni? Szeretnél valami egészséges rágcsálnivalót? Ez a chips a legjobb választás.</item>
+        <item>A kakaótermesztés rengeteg kárt tud okozni a környezetnek, ha nem megfelelő módon végzik. Ha ebben a boltban jársz, bizonyára neked is olyan fontos a fenntarthatóság, mint nekünk. Ez a csoki a tökéletes döntés.</item>
+        <item>Te sem tudod elképzelni a napodat a kávé utánozhatatlan aromája nélkül? Szerencsére nálunk már bio módban is hódolhatsz a szenvedélyednek.</item>
+        <item>Örülünk, hogy számodra is fontos, hogy a tojások hozamnövelő és antibiotikum nélkül kerüljenek a konyhádba.</item>
+        <item>Gluténmentes zabpehely, amely magas fehérje és rosttartalmú. Teljesértékű gabonaként változatos módon fogyasztható.</item>
+        <item>Azt, hogy a méz milyen zamatú lesz, azok az illóolajparányok határozzák meg, melyeket a különféle virágok nektárjai adnak, amit a méhek összegyűjtöttek. Így az íze miatt sem mindegy, hogy találkoztak-e azok a virágok, amelyekből a méz származik vegyszerekkel vagy sem.</item>
+        <item>Szeretnéd felidézni gyerekkorod ízeit? Amikor nagymamáddal vagy anyukáddal együtt válogattátok, tisztítottátok a gyümölcsöket. A mi lekvárjaink garantáltan visszarepítenek a múltba.</item>
+        <item>Mit szeretsz a legjobban sütni? Muffint? Kenyeret? Palacsintát? Rántott húst? A mi lisztünk mindegyikhez ideális választás.</item>
+        <item>A kínálatunkban található rizs biominősítésű és Magyarországon termesztett. Így nemcsak mentes a vegyszerektől, de az ökológiai lábnyoma is kisebb, mint a távolkeleti társaié.</item>
+        <item>A- és E-vitaminban gazdag, többféle B-vitamin is van a dióban, így például a tiamin, amely ideg- és izomvédő, serkenti a növekedést. Sok benne a magnézium és a kálium, megtalálható benne a csontképző fluor, valamint a mangán és a réz, amely a vérképzésben segít. A szelén a szívizomgyengeség ellen kiváló, nem beszélve immunerősítő szerepéről.</item>
+        <item>Az olaj gazdag antioxidáns tulajdonságú A- és E-vitaminban, melyeknek szerepe van a káros szabadgyökök semlegesítésében. Egyszeresen telítetlen olaj, csökkenti az úgynevezett rossz koleszterin (LDL-koleszterin) szintjét.</item>
+    </string-array>
+
+    <array name="itemImage">
+        <item>@drawable/basil</item>
+        <item>@drawable/chips</item>
+        <item>@drawable/chocolate</item>
+        <item>@drawable/coffee</item>
+        <item>@drawable/easter_eggs</item>
+        <item>@drawable/flakes</item>
+        <item>@drawable/honey</item>
+        <item>@drawable/jam</item>
+        <item>@drawable/liszt</item>
+        <item>@drawable/rice</item>
+        <item>@drawable/walnuts</item>
+        <item>@drawable/olive_oil</item>
+    </array>
+
+    <string-array name="price">
+        <item>200 Ft</item>
+        <item>450 Ft</item>
+        <item>300 Ft</item>
+        <item>500 Ft</item>
+        <item>700 Ft</item>
+        <item>150 Ft</item>
+        <item>750 Ft</item>
+        <item>600 Ft</item>
+        <item>400 Ft</item>
+        <item>650 Ft</item>
+        <item>1250 Ft</item>
+        <item>900 Ft</item>
+    </string-array>
+</resources>
